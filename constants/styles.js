@@ -1,9 +1,9 @@
 export const Colors = {
-  primary100: '#EDEDED',
-  primary500: '#023047',
-  primary800: '#939393',
-  error100: '#fcdcbf',
-  error500: '#f37c13',
+  primary100: '#EDEDED', // white
+  primary500: '#219EBC', // blue
+  primary800: '#8ECAE6',// cinza
+  error100: '#FFB703',// yellow
+  error500: '#f37c13',//
 }
 
 
